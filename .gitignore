@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Production build
+build/
+
+# Cache
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor related
+.vscode/
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS related
+.DS_Store
+
+# Optional: Ignore your compiled JavaScript if you are not committing it
+# jsconfig.json
+# tsconfig.json
+# *.js
+# *.js.map
+# *.d.ts
+
+# Optional: Ignore your CSS cache if you have one
+# .pcss-cache/
+
+# Optional: Ignore coverage reports
+# coverage/
